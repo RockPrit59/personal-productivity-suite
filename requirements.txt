@@ -1,0 +1,11 @@
+# Requirements for Personal Productivity Suite (GUI Version)
+# All modules used are part of Python's standard library.
+# Tkinter comes preinstalled with Python on most systems.
+
+tkinter
+json
+csv
+os
+shutil
+datetime
+time
