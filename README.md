@@ -144,11 +144,12 @@ sudo apt-get install python3-tk
 ---
 
 # 👨‍💻 Author  
-Your Name  
+Pritam Das  
 B.Tech CSE – Cyber Security  
 Year: 2025  
 
 ---
 
 # 📜 License  
+
 Free to use for academic and learning purposes.
